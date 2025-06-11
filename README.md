@@ -122,5 +122,12 @@ This project analyzes an impure dataset of **Shark Tank India** to extract busin
   
 ---
 
-## 📁 Folder Structure
+---
+
+## 📬 Contact
+
+**Uttam Kumar Mahato**  
+📧 uttammahato379@gmail.com  
+
+---
 
